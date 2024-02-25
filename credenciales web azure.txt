@@ -1,0 +1,27 @@
+Nombre del servidor
+lsmarket-server
+Motor
+MySQL - Flexible Server
+Nivel de proceso y tamaño
+GeneralPurpose Standard_D2ds_v4
+Nombre de la base de datos
+lsmarket-database
+Región
+Brazil South
+
+Nombre de usuario
+eclrqqichd
+Contraseña
+JGJ041L3E21J7ZMZ$
+
+Redes
+Virtual Network
+(Nuevo) lsmarketVnet (10.0.0.0/16)
+Subred de entrada
+(Nuevo) lsmarketSubnet (10.0.0.0/24)
+DNS
+Zona de Azure DNS privado
+Subred de salida (aplicación web)
+(Nuevo) lsmarketAppSubnet (10.0.1.0/24)
+Subred de salida (base de datos)
+(Nuevo) lsmarketDbSubnet (10.0.2.0/24)
