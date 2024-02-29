@@ -1,8 +1,0 @@
-{
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}",
-        ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/ede2f34e-d868-4c37-9ba9-e2842e719678/resourceGroups/DefaultResourceGroup-SCUS/providers/Microsoft.Web/sites/lsmarket",
-    "appService.deploySubpath": "ls_market"
-}
